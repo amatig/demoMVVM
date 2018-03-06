@@ -1,0 +1,12 @@
+{
+	"id": "procedure-TSC_DPapproach",
+	"name": "Anterior approach shoulder",
+	"phases": [
+			   {
+			   "name": "Anterior approach shoulder",
+			   "icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/DPapproach/icon/100.jpg"
+			   }
+			   ],
+	"icon": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/DPapproach/icon/100.jpg",
+	"card": "https://s3-eu-west-1.amazonaws.com/media-touchsurgery-dev/media/modules/DPapproach/card/100.jpg"
+}
